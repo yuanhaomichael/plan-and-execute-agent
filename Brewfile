@@ -1,0 +1,12 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew "cmake"
+brew "cocoapods"
+brew "dlib"
+brew "fastlane", link: false
+brew "sqlite"
+brew "python@3.8"
+brew "ruby@2.7"
+brew "swiftgen"
+brew "swiftlint"
+brew "yasm"
