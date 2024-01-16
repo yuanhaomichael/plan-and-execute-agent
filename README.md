@@ -1,3 +1,9 @@
+# About
+
+This is in-progress work implementing a plan-and-execute agent for interacting with any tools available. Already achieved a 3x speed when compared to LangChain's task agent in updating gCal events... 
+
+
+
 # installation
 
 1. npm install -g serverless
